@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 🔭 I’m currently working on broadening my set of skills!
 🌱 learning React and Java
