@@ -2,7 +2,8 @@
 
 🔭 I’m currently working on broadening my set of skills!
 🌱 learning React and Java
-✨ most excited about growing as wide as I can, as fast as I can, as deep as I can.
+✨ most excited about growing as wide as I can, as fast as I can, as deep as I can. \n
+\n
 :heartpulse: Being patient with my process and grateful for every opportunity.
 :exclamation: How to reach me: milenabrum.f@gmail.com
 :boom: I wouldn't be here if it wasn't for my friend Seb who introduced me to programming, and my family and friends who support me every step of the way.
