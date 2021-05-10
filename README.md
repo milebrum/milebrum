@@ -6,8 +6,6 @@
 :heartpulse: being patient with my process and grateful for every opportunity.  
   
 :exclamation: How to reach me: milenabrum.f@gmail.com  
-  
-:boom: I wouldn't be here if it wasn't for my friend Seb who introduced me to programming, and my family and friends who support me every step of the way.
 
 <!--
 **milebrum/milebrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
