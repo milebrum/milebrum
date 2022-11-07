@@ -1,9 +1,4 @@
 ### Hey there 👋
-
-🔭 I’m currently working on broadening my set of skills!
-🌱 learning React and Java
-✨ most excited about growing as wide as I can, as fast as I can, as deep as I can
-:heartpulse: being patient with my process and grateful for every opportunity.  
   
 :exclamation: How to reach me: milenabrum.f@gmail.com  
 
